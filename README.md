@@ -4,11 +4,16 @@ Conversor de Moneda utilizando una API para el Challenge de Alura LATAM.
 
 Marco Antonio Rivera Silva
 
-Las Conversiones soportadas son:
+## Conversiones soportadas
 - Dolar Estado Unidense
 - Peso Argentino
 - Real Brasileño
 - Peso Colombiano
+
+## Errores soportados
+- Entrada de texto en vez de opción númerica
+- Entrada de espacios en blanco y caracteres especiales
+- Entrada de números negativos.
 
 ## Notas
 
